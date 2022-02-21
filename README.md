@@ -1,6 +1,33 @@
-# spider_flutter
+![Spiderman](https://assets.turbologo.com/blog/en/2019/10/19084946/spiderman-logo-illustration.jpg)
+[![GitHub stars](https://img.shields.io/github/stars/iampawan/FlutterExampleApps.svg?style=social&label=Star)](https://github.com/amirziyacode)
+[![GitHub forks](https://img.shields.io/github/forks/iampawan/FlutterExampleApps.svg?style=social&label=Fork)](https://github.com/amirziyacode?tab=repositories)
 
-A new Flutter project.
+
+# Spiderman
+
+A new Flutter project with springdescription
+
+Learm more ![Springdescription](https://api.flutter.dev/flutter/physics/SpringDescription-class.html)
+
+Rate me ⭐
+
+Thank you ☺
+
+
+
+
+## Platform
+
+Android ✔️
+
+Ios ✔️
+
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
 
 ## Getting Started
 
