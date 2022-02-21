@@ -7,7 +7,7 @@
 
 A new Flutter project with springdescription
 
-Learm more ![Springdescription](https://api.flutter.dev/flutter/physics/SpringDescription-class.html)
+Learm more [Springdescription](https://api.flutter.dev/flutter/physics/SpringDescription-class.html)
 
 Rate me ⭐
 
